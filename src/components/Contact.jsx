@@ -11,15 +11,15 @@ const Contact = () => {
           Feel free to reach out! 📬
         </p>
         <div className="space-y-4 mt-8">
-          <p className="text-blue-600 dark:text-blue-400 text-lg hover:animate-bounce">
+          <p className="text-blue-600 dark:text-blue-400 text-lg">
             <a href="mailto:kashyapshashank463@gmail.com"><strong className="font-bold text-2xl">📧</strong>kashyapshashank463@gmail.com</a>
           </p>
           <p className="text-gray-700 dark:text-gray-300">📞 +91 9939105816</p>
           <p className="text-gray-700 dark:text-gray-300">📍 Greater Noida</p>
-          <p className="text-blue-600 dark:text-blue-400 text-lg hover:animate-bounce">
+          <p className="text-blue-600 dark:text-blue-400 text-lg">
             <a href="https://github.com/Shashank463">🔗Github</a>
           </p>
-          <p className="text-blue-600 dark:text-blue-400 text-lg hover:animate-bounce">
+          <p className="text-blue-600 dark:text-blue-400 text-lg">
             <a href="https://www.linkedin.com/in/shashank-kashyap-4504462b8">🔗LinkedIn</a>
           </p>
         </div>
