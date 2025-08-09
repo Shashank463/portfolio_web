@@ -16,7 +16,7 @@ const About = () => {
         Website, To-Do App, and Digital Clock using HTML, CSS, and JavaScript and
         Pixabay_Clone using React.js bootstrap. Eager to apply and expand my
         skills in real-world environments, with a growing interest in React and
-        backend technologies.
+        backend technologies like Node.js.
       </p>
       <h3 className="text-2xl font-semibold mt-10 text-blue-900 dark:text-blue-200">
         Skills

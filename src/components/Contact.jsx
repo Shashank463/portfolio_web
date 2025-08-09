@@ -19,7 +19,7 @@ const Contact = () => {
           <p className="text-blue-600 dark:text-blue-400 text-lg">
             <a href="https://github.com/Shashank463">🔗Github</a>
           </p>
-          <p className="text-blue-600 dark:text-blue-400 text-lg">
+          <p className="text-blue-600 dark:text-blue-400 text-lg ">
             <a href="https://www.linkedin.com/in/shashank-kashyap-4504462b8">🔗LinkedIn</a>
           </p>
         </div>
