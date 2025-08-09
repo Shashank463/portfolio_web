@@ -6,7 +6,7 @@ const Projects = () => {
         {
             title: "Ecommerce Website",
             description: "An ecommerce website built with React.js",
-            link: "https://yushank.vercel.app/",
+            link: "https://yushank-sk.vercel.app/",
             github: "https://github.com/Shashank463",
         },
         {
