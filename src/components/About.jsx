@@ -12,11 +12,11 @@ const About = () => {
       <p className="text-black-500 dark:text-gray-300 text-xl md:text-2xl max-w-2xl text-center">
         Motivated and curious B.Tech Computer Science student specializing in
         Artificial Intelligence, with hands-on experience in building and
-        deploying responsive web applications. Developed projects like an Amazon
-        Clone, To-Do App, and Digital Clock using HTML, CSS, and JavaScript and
+        deploying responsive web applications. Developed projects like an Ecommerce 
+        Website, To-Do App, and Digital Clock using HTML, CSS, and JavaScript and
         Pixabay_Clone using React.js bootstrap. Eager to apply and expand my
         skills in real-world environments, with a growing interest in React and
-        backend technologies like Node.js.
+        backend technologies.
       </p>
       <h3 className="text-2xl font-semibold mt-10 text-blue-900 dark:text-blue-200">
         Skills

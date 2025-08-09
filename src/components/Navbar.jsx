@@ -8,7 +8,7 @@ const Navbar = ({ darkmode, toggleDarkMode }) => {
     <nav className="bg-gray-900 sticky top-0 z-50">
       <div className="p-5 flex items-center justify-between">
         <div className="text-3xl text-white font-bold">
-          <h1>Shashank Kashyap</h1>
+          <NavLink to="/"><h1>Shashank Kashyap</h1></NavLink>
         </div>
 
         <div className="md:hidden">

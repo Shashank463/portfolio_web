@@ -49,19 +49,21 @@ const Projects = () => {
                             <p className="text-gray-700 dark:text-gray-300 mb-4">
                                 {project_obj.description}
                             </p>
-                            <Link
-                                className="inline-block text-blue-600 dark:text-blue-400 font-medium"
-                                to={"https://github.com/Shashank463"}
-                            >
-                                View on GitHub →
-                            </Link>
-                            <br />
-                            <Link
-                                className="inline-block text-blue-600 dark:text-blue-400 font-medium"
-                                to={project_obj.link}
-                            >
-                                Visit →
-                            </Link>
+                            <div className="flex justify-between items-center">
+                                <Link
+                                    className="inline-block text-blue-600 dark:text-blue-400 font-medium"
+                                    to={"https://github.com/Shashank463"}
+                                >
+                                    View on GitHub →
+                                </Link>
+
+                                <Link
+                                    className="inline-block text-blue-600 dark:text-blue-400 font-medium"
+                                    to={project_obj.link}
+                                >
+                                    Visit →
+                                </Link>
+                            </div>
                         </div>
                     ))}
                 </div>
